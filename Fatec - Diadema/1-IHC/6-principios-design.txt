@@ -1,0 +1,24 @@
+1.	Visibilidade:
+	Saibam utilizar de forma clara como: 
+	Escolha dos ícones.
+	Por exemplo: Um aplicativo de comida tem que ter um coteudo que faça referencia ao universo 
+
+2.	Feedback:
+	Mecanismo que indica ao usuário, uma mensagem que o aplicativo ou software estaja trabalhando  pra cumprir a 	função
+
+3.	Affordance
+	O consumidor precisa olhar para a aparência de um produto e saber como utiliza-lo
+	Está ligado a acessibilidade de design para o cliente: precisa saber como o site funciona e seus 	diferenciais
+
+4.	Mapeamento:
+	Relação entre controle e efeito das ações do usuário. Um bom design mostra que as ações do usuário estão 	surgindo efeito
+	Exemplo: Barra de rolagem -> controle de direção
+
+5.	Restrições:
+	Restrições que o produto precisam ter, decidindo se vale a pena ter ou não, como: Tamanho da tela
+	Outras acontecem e renuncias do processo criativo
+	
+6.	Consistencia
+	Um bom design deve fazer com que a mesma ação gere sempre a mesma reação
+	A identidade da marca também precisa ser consistente, os logos têm poder e reconhecimento, por isso, cores 	e formatos devem ser essencialmente mantidos
+	
